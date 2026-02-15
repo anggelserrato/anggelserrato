@@ -7,22 +7,16 @@ Sometimes they work. Sometimes I learn.
 
 I like building, breaking, fixing, and repeating.
 
----
-
-## 🧠 About Me
+## About Me
 
 I don’t have all the answers, but I do have constant curiosity.  
 I enjoy the process more than the outcome (though the outcome helps).
 
 I believe in: *"Shipping beats perfection"* — Even if my perfectionism sometimes disagrees.
 
----
-
-## 🛠 Tech
+## Tech
 
 I usually work with:
-
-# Tech Stack & Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
@@ -38,19 +32,13 @@ I usually work with:
 ![Swagger](https://img.shields.io/badge/Swagger-%2343858F.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-## 🚧 Currently
+## Currently
 
 - Learning something new (always)
 - Building personal projects
 - Trying not to over-engineer simple things
 
----
-
-## 🌐 Connect
-
-If you want to talk about projects, ideas, or interesting bugs — I’m around.
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anggelserrato)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anggelserrato)
