@@ -1,4 +1,4 @@
-# 👋 Hi
+# 👋🏼 Hi there!
 
 I'm a developer.
 
@@ -14,11 +14,7 @@ I like building, breaking, fixing, and repeating.
 I don’t have all the answers, but I do have constant curiosity.  
 I enjoy the process more than the outcome (though the outcome helps).
 
-I believe in:
-
-> "Shipping beats perfection"
-
-Even if my perfectionism sometimes disagrees.
+I believe in: *"Shipping beats perfection"* — Even if my perfectionism sometimes disagrees.
 
 ---
 
@@ -26,14 +22,21 @@ Even if my perfectionism sometimes disagrees.
 
 I usually work with:
 
-- MongoDB
-- Express.js
-- React
-- Node.js
-- JavaScript
-- Git
-- Docker (when I’m feeling brave)
-- ChatGPT (when I’m feeling humble)
+# Tech Stack & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2300C4CC.svg?style=for-the-badge&logo=render&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2343858F.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
