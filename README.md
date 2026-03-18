@@ -30,6 +30,7 @@ I usually work with:
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2300C4CC.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2343858F.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=docusaurus&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Currently
