@@ -31,11 +31,11 @@ I usually work with:
 ![Render](https://img.shields.io/badge/Render-%2300C4CC.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2343858F.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=docusaurus&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![IA](https://img.shields.io/badge/IA-%23000000.svg?style=for-the-badge)
 
 ## Currently
 
-- Learning something new (always)
+- Learning something new (most of the time)
 - Building personal projects
 - Trying not to over-engineer simple things
 
